@@ -1,0 +1,165 @@
+.About-h1{
+    font-family: 'Shippori Mincho', serif;
+    font-size:60px;
+    margin-top:50px;
+}
+.About-img{
+    height:500px;
+    width:500px;
+    margin-top:40px;
+    margin-left:40px;
+}
+.About-para1{
+    font-family: 'Shippori Mincho', serif;
+    font-size:22px;
+}
+.About-para2{
+    font-family: 'Shippori Mincho', serif;
+    font-size:22px;
+}
+.Number{
+    font-family:"Shippori Mincho", serif;
+    margin-bottom:50px;
+    font-size:30px;
+}
+.JoinUs-btn{
+    border-radius:30px;
+    border:0px;
+    background-color: black;
+    color:white;
+    height:45px;
+    width:120px;
+}
+.Donate-btn{
+    border-radius:30px;
+    height:45px;
+    width:120px;
+    margin-left:30px;
+}
+.About-hr{
+    margin-top:40px;
+    margin-bottom:40px
+}
+.background{
+    background-color: #F4F4F4;
+    width:100vw;
+    height:130vh;
+}
+.AboutUs-section{
+    color:#21560E;
+    background-color: white;
+    width:90vw;
+    padding:50px;
+}
+.mits-logo{
+    height:100px;
+    width:100px;
+    margin-top:130px;
+}
+.AboutUs-para{
+    font-family:"Shippori Mincho";
+    font-size:22px;
+}
+.AboutUs-para2{
+    font-family:"Shippori Mincho";
+    font-size:16px;
+}
+.ReadMore-btn{
+    background-color:#ED0000;
+    color:white;
+    border:0px;
+    padding-bottom:12px;
+    padding-top:12px;
+    width:120px;
+    border-radius:30px;
+    margin-top:40px;
+    font-family:Shippori Mincho;
+}
+.green-bg{
+    height: 50vh;
+    width:100vw;
+    background-color: #21560E;
+}
+.AboutUs-h1{
+    font-family: Shippori Mincho;
+    font-size:50px;
+}
+/* Subsidiary */
+.SubsHead{
+    font-family: Shippori Mincho;
+    font-size:25px;
+}
+.subs-img{
+    height:300px;
+}
+.subs-text{
+    color:#626262;
+    text-align:left;
+    font-family: Shippori Mincho;
+    margin-left:10px;
+    margin-right:5px;
+}
+.subsHead{
+    font-family: Shippori Mincho;
+}
+.readmore{
+    text-align:right;
+    margin-right:15px;
+}
+.OurSubs{
+    font-family: Shippori Mincho;
+    margin-bottom:20px;
+  }
+  .intern{
+    font-family: Shippori Mincho;
+    margin-bottom:50px;
+  }
+  .OurSubsidiaries{
+    background-color:#F4F4F4;
+    padding-top:60px;
+  }
+  .SubsContainer{
+    background-color: white;
+    padding-bottom:20px;
+    margin:10px;
+  }
+  .Read-more-btn{
+    background-color:#ED0000;
+    color:white;
+    border:0px;
+    padding-bottom:12px;
+    padding-top:12px;
+    width:120px;
+    border-radius:30px;
+    margin-top:40px;
+    font-family:Shippori Mincho;
+    margin-bottom:70px;
+  }
+  .Donation{
+    text-align:left;
+    padding-top:90px;
+    font-family:Shippori Mincho;
+  }
+  .About-img1{
+    height:400px;
+    width:400px;
+    margin-top:40px;
+    margin-left:40px;
+  }
+  .Donation-head1{
+    font-size:22px;
+    margin-top:25px;
+    margin-bottom:18px;
+  }
+  .Donation-head2{
+    font-size:18px;
+    margin-bottom:15px;
+  }
+  .FAQ{
+    font-family:Shippori Mincho;
+    padding:70px;
+  }
+  .FAQ-head{
+        font-size:35px;
+        padding-bottom:15px;
+  }

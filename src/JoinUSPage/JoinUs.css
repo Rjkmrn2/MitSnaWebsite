@@ -1,0 +1,23 @@
+.JoinTeam{
+    height:80vh;
+    background-image:url("./white-bg-photography-1.jpg");
+    background-size:cover;
+}
+.JoinUsPara{
+    font-size:20px;
+    margin-bottom:30px;
+}
+.JoinHead{
+    font-weight:600;
+    font-family:'Mont';
+    margin-bottom:30px;
+}
+.ApplyToday-btn{
+    border:0px;
+    padding:20px;
+    width:230px!important;
+    height:60px!important;
+    padding-top:13px;
+    font-size:18px!important;
+    font-family:'Poppins'!important;
+}

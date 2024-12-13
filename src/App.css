@@ -1,0 +1,717 @@
+
+
+.box-2{
+  height:140px;
+  width:300px;
+}
+.flexx{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.box--1{
+  height:180px;
+  padding:35px;
+  
+  background-color:#21560E;
+}
+.btnBox-1{
+  border-radius:35px;
+  color:#21560E;
+  border:0px;
+  font-size:21px;
+  font-family:sans-serif;
+  padding:10px;
+  width:120px;    
+}
+.box--2{
+  padding:30px;
+  height:180px;
+  background-color:#2E4049;
+}
+.ml2{
+  font-family:sans-serif;
+  font-size:30px;
+}
+.bot-container{
+  background-color:#F1EEEC;
+  padding:20px;
+}
+.bot-box{
+  margin-left:10px;
+}
+
+  
+
+.Anchor{
+  color:white;
+  font-size:20px;
+}
+.NavDonateBtn{
+  background-color:red;
+  border-radius:35px;
+  border:0px;
+  padding:9px;
+  font-size:18px;
+  color:white;
+  text-align:center;
+  width:100px
+}
+.PromoteH1{
+  color:red;
+  font-family: 'Indie Flower', cursive;
+  font-size:24px;
+}
+.PromoteBtn{
+  border:0px;
+  border-radius:30px;
+  background-color:red;
+  color:white;
+  padding:12px;
+  width:120px
+}
+.Promote-section{
+  text-align:left;
+  width:100%;
+}
+.Donate-section{
+  width:35%;
+}
+.promote{
+  margin-top:200px;
+  margin-bottom:120px;
+}
+.PromoteH2{
+  font-family:'Shippori Mincho';
+  color:rgb(29, 27, 27);
+  font-weight:500;
+}
+.donate{
+  background-color:#ECF1F0;
+  margin:200px;
+  margin:30px
+}
+.DonateNowBtn{
+  margin:30px;
+  border:0px;
+  border-radius:30px;
+  padding:15px;
+  width:150px;
+  background-color:white;
+}
+.Donate-section{
+  margin-top:100px;
+}
+.box-h1{
+  font-family:'Shippori Mincho';
+  font-size:34px;
+}
+.box-h2{
+  font-family:'Shippori Mincho';
+  font-size:34px;
+}
+.EventH1{
+  margin-right:20px;
+  font-size:34px;
+  font-family:'Shippori Mincho'
+}
+.MoreBtn{
+  margin-left:50px;
+  border:0px;
+  border-radius:30px;
+  background-color:red;
+  color:white;
+  padding:9px;
+  width:100px
+}
+.bot-text{
+  font-family:'Shippori Mincho';
+  margin-left:20px;
+  font-size:18px;
+  margin-top:20px;
+}
+.BotContainer{
+  background-color:white;
+  margin:20px;
+}
+.parent-bot-container{
+  margin-top:50px;
+  margin-bottom:30px;
+}
+.arrow{
+  margin:110px;
+  margin-top:20px;
+  margin-bottom:60px;
+  font-weight:300;
+  border-radius:50%;
+  border:1px solid #D0D0D0;
+  height:43px;
+  font-size:24px;
+  width:43px;
+  background-color:#FFFFFF;
+}
+.BMbox{
+  padding:40px;
+  width:95%;
+}
+.BMinnerBox{
+  border:1px solid white;
+  margin-right:0px;
+  margin:20px;
+  margin-left:0px;
+  padding:30px;
+}
+.input{
+  border:1px solid rgb(227, 222, 222);
+  color:white;
+  padding:20px;
+  width:100%;
+  height:80px;
+  margin:20px;
+  background: #000;
+  padding:14px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.submitBtn{
+  background-color:white;
+  color:black;
+  border:0px;
+  border-radius:40px;
+  width:130px;
+  margin-left:20px;
+  padding:12px;
+  font-family: 'Roboto';
+  margin-bottom:10px;
+}
+.Comment{
+  
+  border:1px solid rgb(227, 222, 222);
+  height:140px;
+  background: #000;
+  margin:20px;
+  color:white;
+  width:100%;
+  padding:12px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.BMtext{
+  color:white;
+  font-family:'Shippori Mincho';
+  margin-left:20px;
+}
+.input::placeholder {
+  color: rgb(244, 243, 243);
+}
+
+.Comment::placeholder {
+  color: rgb(244, 244, 244);
+}
+.HWH-h1{
+  font-family:'Shippori Mincho';
+  font-size:38px;
+}
+.HWH-text{
+  font-family: 'Indie Flower', cursive;
+  margin-bottom:25px;
+  color:#FF6D6D;
+  font-size:26px;
+}
+.HWH{
+  margin:40px;
+  color:white;
+  width:35%;
+  margin-top:60px;
+}
+.HWH-description{
+  font-size:20px;
+  margin-right:150px;
+}
+.JoinPage{
+  background-color: #000;
+  padding:20px;
+}
+.EventBox{
+  text-align:center;
+  margin:15px;
+  margin-left:5px;
+  padding:20px;
+  width:90%;
+}
+.EventH1{
+  font-family:'Shippori Mincho';
+  font-size:26px;
+  font-weight:500;
+  padding-left:26px;
+}
+.EventPara{
+  font-size:16px;
+  padding-right:15px;
+  text-align:center;
+}
+.EventsHeading{
+  font-family:'Shippori Mincho';
+  margin:30px;
+  font-weight:600;
+  margin-top:60px
+}
+.RMcontainer{
+  background-color:#21560E;
+  padding:40px;
+  height:100%;
+}
+.RMfancy{
+  font-family: 'Indie Flower', cursive;
+  font-size:23px;
+  color:#ED0000;
+}
+.RMh1{
+  font-family:'Shippori Mincho';
+  color:white;
+
+}
+.RMbutton{
+  border-radius:40px;
+  background-color:#ED0000;
+  width:140px;
+  padding:13px;
+  border:0px;
+  color:white;
+}
+.RMpara{
+  color:white;
+}
+.RMimg1{
+  height:100%;
+}
+.RM2container{
+  background-color:#21560E;
+  padding:10px;
+  padding-right:30px;
+  padding-left:30px;
+  height:100%;
+
+}
+.RM2btn1{
+  border-radius:40px;
+  background-color:#ED0000;
+  width:100px;
+  margin-right:10px;
+  padding:10px;
+  border:0px;
+  color:white;
+  margin-top:130px;
+}
+
+.RM2btn2{
+  border-radius:40px;
+  background-color:#ED0000;
+  width:80px;
+  padding:10px;
+  border:0px;
+  color:white;
+  margin-top:130px;
+}
+.RM2{
+  font-family:'Shippori Mincho';
+  color:white;
+  font-size:34px;
+}
+.TestBox{
+  background-color:#ECF1F0;
+  padding:40px;
+  width:80%;
+  margin:30px;
+
+}
+.TestH1{
+  text-align:center;
+  font-family:'Shippori Mincho';
+}
+.TestH2{
+  text-align:center;
+  color:#FF6D6D;
+  font-family:'Indie Flower', cursive;
+}
+.Testimonial{
+  margin:40px;
+  margin-top:430px;
+  margin-bottom:5px;
+}
+.AchBox{
+  padding:20px;
+  margin:15px;
+  margin-top:0px;
+  width:40%;
+  text-align:center;
+}
+.hrAch{
+  color:#D0D0D0;
+  width:2px;
+  margin-bottom:50px;
+}
+.achievement{
+  width:70%;
+}
+.AchContainer{
+  width:100vw;
+}
+.TeamH2{
+  color:#FF6D6D;
+  font-family:'Indie Flower', cursive;
+  font-size:26px;
+}
+.TeamH1{
+  font-family:'Shippori Mincho';
+  color:#2E4049;
+  font-size:36px;
+}
+.TeamName{
+  font-family:'Shippori Mincho';
+  color:#2E4049;
+  font-size:28px;
+}
+.TeamBox{
+  margin:30px;
+}
+.VolunteerBox{
+  background-color:#21560E;
+  padding:40px;
+  width:85%;
+}
+.volunteerH1{
+  color:#000000;
+  font-family:'Shippori Mincho';
+  font-size:33px;
+  font-weight:500;
+}
+.volunteerPara{
+  color:white;
+  font-size:20px;
+}
+.volunteerBtn{
+  background-color: #2E4049;
+  color:white;
+  padding:13px;
+  width:145px;
+  border-radius:30px;
+  border:0px;
+}
+.TeamContainer{
+  background:#1E1E1E;
+  padding:80px;
+  width:100%;
+  margin:0px;
+}
+.MitsnaBox{
+  width:30%;
+  margin-left:0px;
+  margin-top:50px;
+  margin-right:150px;
+  margin-bottom:80px;
+}
+.Mitsnapara{
+  color:white;
+  font-size:16px;
+  width:400px;
+}
+
+.GIh1{
+  font-family:'Shippori Mincho';
+  color:white;
+  font-size:23px;
+}
+.GIpara{
+  color:white;
+}
+.margin-bot{
+  margin-bottom:96px;
+}
+.ContactCard{
+  padding:20px;
+  padding-top:50px;
+  margin:40px;
+  margin-bottom:30px;
+  background-color: #1A1D1F;
+}
+.contactCard{
+  margin-top:50px;
+}
+
+.GetInvolved{
+  margin-right:35px;
+  margin-left:40px;
+}
+.reddish{
+  color:#FF6D6D;
+}
+.contactLogo{
+  margin-left:30%;
+}
+.logoBorder{
+  background-color: #F2F2F2;
+  margin:30px;
+  margin-left:0px;
+}
+.Email{
+  font-family:'Shippori Mincho';
+  font-size:20px;
+  margin-top:30px;
+}
+.contactInfo{
+  margin-top:0px;
+}
+.mail{
+  color:#727272;
+}
+.HomeH1{
+  font-family:'Shippori Mincho';
+  font-size:28px;
+}
+.GIT{
+  padding:60px;
+}
+.logo-margin{
+  margin:10px;
+}
+.inputHome{
+  border:1px solid rgb(227, 222, 222);
+  color:white;
+  padding:12px;
+  width:95%;
+  margin:18px;
+  background: #F5F5F5;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.inputHome::placeholder {
+  color: #909090;
+}
+.CommentHome{
+  
+  border:1px solid rgb(227, 222, 222);
+  height:120px;
+  background: #F5F5F5;
+  margin:20px;
+  color:white;
+  width:95%;
+  padding:12px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.CommentHome::placeholder {
+  color: #909090;
+}
+.submitBtnHome{
+  background-color:#ED0005;
+  color:white;
+  border:0px;
+  border-radius:40px;
+  width:130px;
+  margin-left:20px;
+  padding:12px;
+  font-family: 'Roboto';
+  margin-bottom:10px;
+}
+.HomeBox{
+  border:1px solid #E7E7E7;
+}
+.HomePara{
+  color:#727272;
+}
+.HomeBot{
+  background-color: #21560E;
+}
+
+.bg-green{
+  background-color: #21560E;
+}
+.MHomeCard{
+  background-color: #21560E;
+}
+.HomeContactCard{
+  padding:30px;
+  margin:40px;
+  width:35%;
+  margin-bottom:80px;
+  background-color: #21560E;
+}
+.HRmitsna{
+  /* background-color: #465A64; */
+  color: red;
+  width:2px;
+  margin:20px;
+}
+
+.mitsna{
+  padding:40px
+}
+.logo-container{
+  border-radius:40%;
+  background-color:#384C56;
+  margin:13px;
+  margin-left:0px;
+  padding:10px;
+  width:40px;
+  height:40px;
+}
+.logo-style{
+  margin-bottom:7px;
+  margin-left:2px;
+}
+.grpPhoto{
+  background-image: url("../public/GROUP_photo_bot.jpg");
+  background-size: cover;
+  background-position:bottom center;
+  height:70vh;
+  padding-top:170px;
+}
+.box{
+  margin-top:170px;
+}
+.mitsnaText{
+  font-family: 'Shippori Mincho';
+  color:white;
+  font-weight: bold;
+  margin-right:42vw;
+  margin-bottom:2px;
+  font-size:50px;
+}
+.HRmitSna{
+  height:1px;
+  width:12vw;
+  opacity: 1;
+  margin-left:22vw;
+  background-color: rgb(255, 255, 255);
+  border:none;
+}
+
+.EmpoweringPara{
+  border:1px solid white;
+  border-radius:40px;
+  color:white;
+  background-color:transparent;
+  padding-left:10px;
+  padding-right:10px;
+  margin-top:2px;
+}
+.bot-img{
+  height:280px;
+}
+.RMimg1{
+  height:100%;
+}
+.RMimg4{
+  height:100%;
+}
+.RM-img-container{
+  height:400px;
+  padding:0px;
+}
+.RMimg2{
+  height:100%;
+}
+.RMimg3{
+  height:100%
+}
+.MitsnaLogo{
+  height:50px;
+  width:60px;
+  margin-right:20px;
+}
+.MitsnaImg1{
+  height:100px;
+  width:105px;
+
+  background-size:contain;
+  margin-right:60px;
+  margin-bottom:30px;
+  background-position:center;
+  background-color:rgb(230, 220, 220);
+  padding:20px;
+  border-radius:50%;
+  text-align:center;
+  margin-left:125px;
+}
+.MitsnaImg1{
+  margin-left:125px;
+}
+.Img1{
+  height:65px;
+  width:70px;
+  background-color:rgb(230, 220, 220);
+  border-top-right-radius:40px;
+  border-top-left-radius:40px;
+  padding-right:4px;
+
+}
+.Img2{
+  height:80px;
+  width:90px;
+
+  border-top-right-radius:40px;
+  border-top-left-radius:40px;
+  margin-right:40px;
+  margin-bottom:30px;
+  margin-left:140px;
+}
+.HWHimg{
+  width:480px;
+}
+.RMbox1{
+  height:300px;
+}
+.RMbox2{
+  height:330px;
+}
+
+.navlink {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  color: #495057;
+  text-decoration: none;
+  background-color: transparent;
+  border-radius: 0.25rem;
+  position: relative;
+  transition: color 0.3s ease;
+  overflow: hidden;
+}
+
+.navlink::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #007bff;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.4s ease;
+}
+
+.navlink:hover::before {
+  transform: scaleX(1);
+}
+
+.navlink:hover {
+  color: #0056b3;
+}
+
+.navlink.active {
+  
+  border-radius: 0.25rem;
+  color: #007bff;
+}
+.navlink.dropdown-toggle {
+  box-shadow: none; /* No glow by default */
+  transition: box-shadow 0.3s ease; /* Smooth glow animation */
+}
+
+.navlink.dropdown-toggle:hover,
+.navlink.dropdown-toggle:focus,
+.navlink.dropdown-toggle[aria-expanded="true"] {
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.8); /* Glow effect */
+  outline: none; /* Remove default outline */
+}
+.contact-nav{
+  margin-left:150px!important;
+}
+

@@ -1,0 +1,52 @@
+.Group-img{
+    height:80vh;
+    width:100vw;
+    object-position:bottom;
+    object-fit:cover;
+}
+.MOT-head1{
+    font-family:sans-serif;
+    padding:30px;
+}
+.Meet-para{
+    font-family:'Indie Flower', cursive;
+    color:#FF6D6D;
+    font-size:24px;
+    padding:10px
+}
+.employ-head2{
+    font-family:sans-serif;
+    font-size:28px;
+    font-weight:bold;
+}
+.test-box{
+    text-align:left;
+}
+.MOT-img1{
+    height:300px;
+}
+.key-head3{
+    font-size:30px;
+    font-family:'Shippori Mincho';
+    margin-bottom:20px;
+    margin-top:20px;
+}
+.MOTpara1{
+    font-size:20px;
+    font-family:'Shippori Mincho';
+}
+.MOT-box{
+    background-color: #F1EEEC;
+}
+.MOT-bottom{
+    font-family:"Shippori Mincho";
+}
+.MOT-list{
+    font-size:19px;
+}
+.MOT-para2{
+    font-size:19px;
+}
+.MOT-profile{
+    border-radius:50%;
+}
